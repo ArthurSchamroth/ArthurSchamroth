@@ -8,7 +8,4 @@
 
 # Some Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSchamroth)](https://github.com/ArthurSchamroth/github-readme-stats)
-
-[![ArthurSchamroth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurSchamroth)](https://github.com/anuraghazra/github-readme-stats)
-
 # 
